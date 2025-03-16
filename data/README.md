@@ -1,4 +1,6 @@
-# Python packages
+# Python packages : requirements.txt
+
+
 - numpy
 - pandas
 - matplotlib
@@ -11,3 +13,8 @@
 - torchvision
 - torchaudio
 - imblearn
+
+# anaconda
+conda activate bb4f_course
+pip install -r requirements.txt
+
