@@ -24,3 +24,7 @@ pkill -9 jupyter
 jupyter notebook --config=~/.jupyter/jupyter_notebook_config.py
 
 
+# page
+https://faal-pred.ciimar.com/jupyter/login
+
+
