@@ -1,13 +1,13 @@
 # Python packages
-numpy
-pandas
-matplotlib
-umap-learn
-transformers
-biopython
-gensim
-scikit-learn
-torch
-torchvision
-torchaudio
-imblearn
+- numpy
+- pandas
+- matplotlib
+- umap-learn
+- transformers
+- biopython
+- gensim
+- scikit-learn
+- torch
+- torchvision
+- torchaudio
+- imblearn
