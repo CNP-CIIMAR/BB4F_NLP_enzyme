@@ -18,3 +18,9 @@
 conda activate bb4f_course
 pip install -r requirements.txt
 
+# Jupyter
+pkill -9 jupyter
+
+jupyter notebook --config=~/.jupyter/jupyter_notebook_config.py
+
+
