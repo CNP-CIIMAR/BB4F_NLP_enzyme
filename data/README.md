@@ -1,5 +1,6 @@
 # Python packages : requirements.txt
-
+conda ativate bb4f_course
+conda install -c conda-forge scipy
 
 - numpy
 - pandas
